@@ -20,7 +20,7 @@ Postorder (recursive + iterative)
 Levelorder (recursive + iterative)
 
 
-Quicksort (just in case i get to a weird sorting problem)
+Quicksort (just in case we get a weird sorting problem)
 
 Mergesort 
 
