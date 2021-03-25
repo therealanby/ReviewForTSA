@@ -1,2 +1,2 @@
 language = "java"
-run = "java Traversals.java"
+run = "java Sorting.java"
